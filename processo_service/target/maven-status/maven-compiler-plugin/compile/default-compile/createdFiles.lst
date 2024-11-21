@@ -1,0 +1,7 @@
+service\controller\TipoDeProcessoController.class
+service\services\TipoDeProcessoService.class
+service\ProcessoServiceApplication.class
+service\model\TipoDeProcesso.class
+service\config\CorsConfig.class
+service\config\SwaggerConfig.class
+service\repository\TipoDeProcessoRepository.class

@@ -1,0 +1,9 @@
+C:\PROJETOS\PocEquilibirum\cadastro_service\src\main\java\processo\controller\ProcessoController.java
+C:\PROJETOS\PocEquilibirum\cadastro_service\src\main\java\processo\config\CorsConfig.java
+C:\PROJETOS\PocEquilibirum\cadastro_service\src\main\java\processo\dto\TipoDeProcesso.java
+C:\PROJETOS\PocEquilibirum\cadastro_service\src\main\java\processo\exception\ResourceNotFoundException.java
+C:\PROJETOS\PocEquilibirum\cadastro_service\src\main\java\processo\repository\ProcessoRepository.java
+C:\PROJETOS\PocEquilibirum\cadastro_service\src\main\java\processo\CadastroServiceApplication.java
+C:\PROJETOS\PocEquilibirum\cadastro_service\src\main\java\processo\model\Processo.java
+C:\PROJETOS\PocEquilibirum\cadastro_service\src\main\java\processo\service\ProcessoService.java
+C:\PROJETOS\PocEquilibirum\cadastro_service\src\main\java\processo\config\SwaggerConfig.java

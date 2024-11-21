@@ -1,0 +1,9 @@
+processo\config\CorsConfig.class
+processo\config\SwaggerConfig.class
+processo\model\Processo.class
+processo\controller\ProcessoController.class
+processo\service\ProcessoService.class
+processo\CadastroServiceApplication.class
+processo\exception\ResourceNotFoundException.class
+processo\dto\TipoDeProcesso.class
+processo\repository\ProcessoRepository.class

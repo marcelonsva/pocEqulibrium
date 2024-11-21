@@ -1,0 +1,7 @@
+{
+  "tiposDeProcesso": [
+    { "id": 1, "nome": "Judicial" },
+    { "id": 2, "nome": "Administrativo" },
+    { "id": 3, "nome": "Financeiro" }
+  ]
+}

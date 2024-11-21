@@ -1,0 +1,9 @@
+FROM tomcat:10.1
+
+WORKDIR /usr/local/tomcat/webapps
+
+COPY target/CadastroWeb-1.0-SNAPSHOT.war ./CadastroWeb.war
+
+EXPOSE 8082
+
+CMD ["catalina.sh", "run"]
